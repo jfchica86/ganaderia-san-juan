@@ -197,3 +197,11 @@ h3 { font-size: 22px; line-height: 1.2; }
   .encabezado { padding: 72px 0 48px; }
   .manifiesto h2 { margin-top: 64px; }
 }
+
+/* Datos de contacto en la invitación */
+.contacto { margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--linea-oscura); max-width: var(--lectura); }
+.contacto p { margin: 0; }
+.contacto p + p { font-family: "Work Sans", system-ui, sans-serif; font-size: 16px; line-height: 1.8; }
+.contacto strong { font-family: "Zilla Slab", serif; font-weight: 500; font-size: 20px; }
+.contacto a { color: var(--ocre-claro); text-decoration: none; }
+.contacto a:hover { text-decoration: underline; }
