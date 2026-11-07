@@ -43,7 +43,10 @@ def hierro() -> str:
 
 
 HIERRO = hierro()
-MARCA = f'{HIERRO}<span>SAN JUAN<small>GANADERÍA</small></span>'
+# El sello como en la presentación: hierro + «San Juan» en Jost, y debajo una regla con «Ganadería»
+SELLO_HIERRO = re.sub(r'viewBox="[^"]*"', 'viewBox="18 8 64 82"', HIERRO, count=1)
+MARCA = (f'<span class="fila">{SELLO_HIERRO}<span class="nombre">San Juan</span></span>'
+         '<span class="fila2"><i></i><span class="sub">Ganadería</span></span>')
 
 
 def pagina(slug: str, titulo: str, descripcion: str, cuerpo: str) -> str:
@@ -64,7 +67,7 @@ def pagina(slug: str, titulo: str, descripcion: str, cuerpo: str) -> str:
 <link rel="icon" href="/activos/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600&family=Zilla+Slab:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500&family=Work+Sans:wght@400;500;600&family=Zilla+Slab:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/activos/estilos.css?v={VERSION_CSS}">
 </head>
 <body>
