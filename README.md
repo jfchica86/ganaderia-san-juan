@@ -3,7 +3,7 @@
 Sitio estático (GitHub Pages desde `docs/`). Público: inversionistas y personas interesadas en invertir.
 Sistema visual: handoff de Claude Design (`San Juan Brand Development`), hierro A.
 
-- Páginas: `paginas/inicio.html`, `paginas/quienes-somos.md` (texto de Juan, tal cual), `paginas/fincas.html`, `paginas/yuwu.html`.
+- Páginas: `paginas/inicio.html`, `paginas/quienes-somos.md` (texto de Juan, tal cual), `paginas/fincas.html`, `paginas/yuwu.html`. Inglés: los mismos nombres en `paginas/en/` → `/en/` (botón ES · EN). Los enlaces internos se escriben como en español; el build les pone `/en/`.
 - Estilos: `plantilla/estilos.css` · hierro maestro: `plantilla/hierro-A-positivo.svg`.
 - Fotos y videos: `activos/`. Solo fotos del predio, nunca de banco.
 - Construir: `python3 construir.py` (requiere `pip install markdown`), luego commit y push.
