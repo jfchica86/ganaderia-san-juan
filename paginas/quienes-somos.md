@@ -40,25 +40,37 @@ Estos son los principios con los que queremos construir Ganadería San Juan.
 
 ### 01. Somos cosechadores de sol {: #p01 }
 
-**Creemos que la ganadería comienza mucho antes de tener ganado. Comienza cuando una planta captura la energía del sol.**
+**Cada hoja de pasto es un panel solar. Y nuestro trabajo es aprender a cosechar su energía sin destruir su capacidad de seguir capturándola.**
 
-La fotosíntesis transforma luz, agua y dióxido de carbono en materia vegetal. Los animales aprovechan parte de esa biomasa y la convierten en proteína.
+La ganadería comienza mucho antes de tener ganado. Comienza cuando una planta recibe la luz del sol y, mediante la fotosíntesis, transforma esa energía en materia vegetal.
 
-Por eso, antes de preguntarnos cuántos animales podemos tener, queremos preguntarnos cuánto alimento podemos producir, cómo lo producimos y qué proporción podemos aprovechar sin comprometer la recuperación de nuestras pasturas.
+Imaginemos por un momento que cada hoja de pasto es un pequeño panel solar. Cuantas más hojas sanas y activas tenga una pradera, mayor será su capacidad potencial de capturar energía y transformarla en biomasa.
 
-Esta manera de pensar cambia el punto de partida de una empresa ganadera.
+Ahora imaginemos que, al pastorear, retiramos prácticamente todas esas hojas. Es como desmontar los paneles solares de una planta de energía y esperar que continúe produciendo electricidad a la misma velocidad.
 
-Nuestro negocio no consiste únicamente en comprar animales, alimentarlos y venderlos. Consiste en administrar un sistema biológico capaz de capturar energía, producir biomasa y transformarla eficientemente en valor económico.
+La planta puede rebrotar utilizando sus reservas, pero si la sometemos repetidamente a pastoreos demasiado intensos, reducimos su capacidad de recuperarse, desarrollar raíces y producir nuevo alimento.
+
+Por eso, nuestro objetivo no es simplemente que el ganado coma todo el pasto disponible. Es aprender a cosechar una parte de esa energía, conservando suficiente superficie foliar para que la planta pueda continuar creciendo.
+
+Y aquí aparece algo extraordinario: las hojas no solamente producen alimento para nuestros animales. Mediante la fotosíntesis, las plantas capturan carbono de la atmósfera y lo incorporan a sus tejidos. Parte de ese carbono llega al suelo a través de las raíces, sus exudados y los residuos vegetales, alimentando procesos biológicos fundamentales.
+
+Una pradera bien manejada puede contribuir a mantener el suelo cubierto, favorecer el desarrollo de raíces, mejorar el ciclo del agua y, bajo determinadas condiciones, aumentar el carbono almacenado en el suelo.
+
+De esta manera, la misma actividad que sostiene nuestra producción ganadera puede contribuir a mejorar las condiciones que hacen posible seguir produciendo.
 
 #### Cómo queremos hacerlo en San Juan
 
-Aprenderemos a medir la producción y disponibilidad de forraje en nuestras fincas, comprender las diferencias entre pasturas y épocas del año, y diseñar el pastoreo alrededor de la capacidad real de crecimiento de las plantas.
+Queremos aprender a administrar nuestras praderas como verdaderos sistemas de captura de energía solar.
 
-Queremos formar personas que sepan interpretar una pradera, comprender sus ciclos y tomar decisiones para mejorar su productividad.
+Esto significa comprender cuánto crece el pasto, cuánta superficie foliar necesita conservar, cuándo está listo para ser aprovechado y cuánto tiempo requiere para recuperarse.
 
-Antes de aumentar el número de animales, queremos entender cuánto alimento somos capaces de producir de manera sostenible.
+Queremos que nuestros pastores observen una pradera y no vean únicamente comida para el ganado. Que reconozcan millones de pequeños paneles solares trabajando, raíces creciendo bajo sus pies y un sistema vivo cuya productividad depende de las decisiones que tomamos.
 
-**Primero cultivamos el pasto. Después alimentamos el ganado.**
+Mediremos la producción de biomasa, la cobertura vegetal, la recuperación de las pasturas y la evolución de nuestros suelos.
+
+Nuestra aspiración es producir cada vez más alimento por hectárea, aprovecharlo eficientemente y fortalecer, al mismo tiempo, la capacidad productiva de la tierra.
+
+**Porque nuestro negocio no comienza con el ganado. Comienza con el sol. Y nuestra primera responsabilidad es mantener funcionando los paneles solares que lo convierten en vida.**
 
 ### 02. El pasto decide, no el calendario {: #p02 }
 
