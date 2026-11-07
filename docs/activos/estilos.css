@@ -69,6 +69,12 @@ h3 { font-size: 22px; line-height: 1.2; }
   text-transform: uppercase; text-decoration: none; color: var(--sepia); transition: color 160ms ease;
 }
 .enlaces a:hover, .enlaces a[aria-current="page"] { color: var(--ocre-texto); }
+.nav-derecha { display: flex; align-items: center; gap: 20px; }
+.idioma {
+  font-family: "Work Sans", system-ui, sans-serif; font-weight: 600; font-size: 12px; letter-spacing: .14em;
+  text-decoration: none; color: var(--sepia); border: 1px solid var(--linea); padding: 6px 9px; transition: border-color 160ms ease, color 160ms ease;
+}
+.idioma:hover { border-color: var(--ocre-texto); color: var(--ocre-texto); }
 .menu-boton { display: none; background: none; border: 0; padding: 8px 0; cursor: pointer; }
 :focus-visible { outline: 2px solid var(--ocre-texto); outline-offset: 4px; }
 
