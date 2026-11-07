@@ -18,6 +18,8 @@ SALIDA = RAIZ / "docs"
 HIERRO_SVG = RAIZ / "plantilla" / "hierro-A-positivo.svg"  # copia del maestro en diseno/design_handoff_web_san_juan/hierro/
 VERSION_CSS = hashlib.md5((RAIZ / "plantilla" / "estilos.css").read_bytes()).hexdigest()[:8]
 DOMINIO = None  # "ganaderiasanjuan.co" cuando el DNS ya apunte a GitHub Pages
+# Sin dominio propio el sitio vive en jfchica86.github.io/ganaderia-san-juan/: todas las rutas llevan ese prefijo
+BASE = "/" if DOMINIO else "/ganaderia-san-juan/"
 
 # (slug, texto del menú, título de la pestaña, descripción)
 PAGINAS = [
@@ -129,7 +131,8 @@ def construir():
         cuerpo = cuerpo_de(slug)
         destino = SALIDA / ("" if slug == "inicio" else slug) / "index.html"
         destino.parent.mkdir(parents=True, exist_ok=True)
-        destino.write_text(pagina(slug, titulo, descripcion, cuerpo), encoding="utf-8")
+        html_ = re.sub(r'((?:href|src)=")/(?!/)', rf"\g<1>{BASE}", pagina(slug, titulo, descripcion, cuerpo))
+        destino.write_text(html_.replace('content="/activos/', f'content="{BASE}activos/'), encoding="utf-8")
     print(f"Listo: {len(PAGINAS)} páginas en docs/")
 
 
